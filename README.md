@@ -1,4 +1,4 @@
-# Prodigy_DS_0# Population Data Analysis Project
+# Prodigy_DS_01 Population Data Analysis Project
 
 ## Overview
 This project analyzes global population data from **1960 to 2023** to uncover trends, patterns, and insights. The dataset includes population figures for various countries and regions, enabling exploration of growth rates, regional comparisons, and future predictions. The analysis is structured as a storytelling journey, starting with data exploration and ending with actionable insights.
